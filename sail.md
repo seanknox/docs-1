@@ -164,7 +164,7 @@ sail artisan queue:work
 Node commands may be executed using the `node` command while NPM commands may be executed using the `npm` command:
 
 ```nothing
-sail node --version
+sail node -v
 
 sail npm run prod
 ```
